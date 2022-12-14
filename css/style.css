@@ -1,0 +1,186 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    /* Google Font Poppins */
+    margin: 0%;
+}
+
+#first-heading {
+    margin-top: 0%;
+    margin-bottom: 0px;
+    padding-top: 150px;
+    font-size: 60px;
+}
+
+#second-heading {
+    margin: 0px;
+    font-size: 60px;
+}
+
+.paragraph-center {
+    padding: 0% 23%;
+    text-align: center;
+}
+
+.help-now {
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 100%;
+    background-image: url(/image/helpnow.png);
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+    padding-bottom: 12%;
+}
+
+.help-btn {
+    border: 0px solid;
+    border-radius: 5px;
+    padding: 10px 15px;
+    background-color: tomato;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+
+.donation-plan {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.donate-amount {
+    margin-bottom: 30px;
+}
+
+.amount-btn {
+    padding: 40px 25px;
+    border: 0px solid gray;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 0% 10px;
+    color: gray;
+}
+
+#highlight-btn {
+    padding: 40px 25px;
+    border: 2px solid tomato;
+    border-radius: 5px;
+    background-color: rgba(236, 52, 20, 0.192);
+    color: tomato;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 0% 10px;
+}
+
+.input-amount {
+    margin-top: 25px;
+    text-align: center;
+    border: 0px solid white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: antiquewhite;
+}
+
+.hr-line {
+    width: 50%;
+    margin-bottom: 30px;
+    background-color: antiquewhite;
+}
+
+.our-donation {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.don-plans {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 0px 100px;
+}
+
+#plan1 {
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: #3bb7c54d;
+    padding: 60px 20px;
+    margin-right: 40px;
+}
+
+#plan2 {
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: #c234aa48;
+    padding: 60px 20px;
+    margin-right: 40px;
+}
+
+#plan3 {
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: #c5812752;
+    padding: 60px 20px;
+}
+
+.extension {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+#ext-image {
+    width: 60%;
+    height: 70%;
+}
+
+.get-updates {
+    text-align: center;
+}
+
+.subcribe-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0px solid gray;
+    background-color: #0061f3;
+    padding: 80px 40px;
+    margin: 40px 300px;
+    border-radius: 10px;
+}
+
+#email-area {
+    border: 0px solid white;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: antiquewhite;
+    padding: 12px 0px;
+    padding-left: 15px;
+    padding-right: 80px;
+}
+
+#sub-btn {
+    border: 0px solid tomato;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: tomato;
+    color: white;
+    padding: 12px 30px;
+}
+
+.footer {
+    margin-top: 100px;
+    border: 0px solid black;
+    background-color: black;
+    color: white;
+    padding: 40px 50px;
+    text-align: center;
+}
